@@ -1,2 +1,2 @@
-#!/bin/bashx
+#!/bin/bash
 mv /tmp/betty /tmp/holberton/betty
